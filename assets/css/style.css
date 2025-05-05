@@ -20,5 +20,13 @@
     /* spacers */
 
     /* container */
-    --content-size: 1880px;
+    --content-size: 1088px;
+}
+
+body {
+    font-family: var(--font-nunito);
+}
+
+.container {
+    width: minmax(100%, var(--content-size));
 }
