@@ -1,0 +1,24 @@
+:root {
+    /* colors */
+    --color-black: #000000;
+    --color-black-4: rgba(0, 0, 0, 0.4);
+    --color-black-25: rgba(0, 0, 0, 0.25);
+    --color-dark: #28272c;
+    --color-grey: #6a6a6a;
+    --color-grey-light: #b2b2b2;
+    --color-grey-lighter: #d1d1d1;
+    --color-white: #ffffff;
+    --color-white-2: rgba(255, 255, 255, 0.2);
+    --color-white-16: rgba(255, 255, 255, 0.16)
+    --color-primary: #ff0000;
+    --color-primary-3: rgba(255, 0, 0, 0.3);
+
+    /* fonts */
+    --font-nunito: 'Nunito Sans', sans-serif;
+    --font-open: 'Open Sans', sans-serif;
+
+    /* spacers */
+
+    /* container */
+    --content-size: 1880px;
+}
